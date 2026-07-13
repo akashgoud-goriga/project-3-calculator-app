@@ -1,0 +1,5 @@
+print("calculator")
+print("press '1' to add ")
+print("press '2' to subtract")
+print("press '3' to multiply")
+print("press '4' to divide")
